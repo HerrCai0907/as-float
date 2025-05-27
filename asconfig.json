@@ -1,0 +1,11 @@
+{
+  "options": {
+    "outFile": "build/math.wasm",
+    "textFile": "build/math.wat",
+    "sourceMap": false,
+    "debug": false,
+    "noExportMemory": true,
+    "optimize": true,
+    "noAssert": true
+  }
+}
